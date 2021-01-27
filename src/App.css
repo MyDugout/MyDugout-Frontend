@@ -1,3 +1,6 @@
+html {
+  background-color: var(--background);
+}
 .App {
   text-align: center;
 }
